@@ -32,14 +32,14 @@
 - Trong vector khá nhiều hàm hỗ trợ
 
 - [Link tham khảo](http://www.cplusplus.com/reference/vector/vector/)
-- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Demo_Vector.cpp)
+- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Code/Demo_Vector.cpp)
 
 ### Tìm kiếm nhị phân
 - Độ phức tạp thuật toán: O(logn)
 - Dùng để tìm kiếm giá trị trong chuỗi giá trị có sắp xếp
 - Một số bài toán cụ thể
 
-- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Demo_binary_search.cpp)
+- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/edit/master/Study_Plan/Week_2/Code/Demo_binary_search.cpp)
 
 ### Luyện tập
 - [Link Contest TLU Bài tập buổi 2]()
