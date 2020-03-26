@@ -22,7 +22,7 @@
 - Với phép tính c=a+b tương đương với độ phức tạp là O(1)
 - Với việc xuất hiện hằng số ta sẽ loại bỏ hằng số đi. **Ví dụ:** O(4n) ~ O(n)
 - Dưới đây là bảng cho phép mức **n** đối với mỗi thuật toán
-![image]()
+![image](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Big_O/BIg_O.png)
 
 ### Vector
 
@@ -32,14 +32,14 @@
 - Trong vector khá nhiều hàm hỗ trợ
 
 - [Link tham khảo](http://www.cplusplus.com/reference/vector/vector/)
-- [Link code]()
+- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Demo_Vector.cpp)
 
 ### Tìm kiếm nhị phân
 - Độ phức tạp thuật toán: O(logn)
 - Dùng để tìm kiếm giá trị trong chuỗi giá trị có sắp xếp
 - Một số bài toán cụ thể
 
-- [Link code]()
+- [Link code](https://github.com/dtrungphong/ACM_OLP_2020/blob/master/Study_Plan/Week_2/Demo_binary_search.cpp)
 
 ### Luyện tập
 - [Link Contest TLU Bài tập buổi 2]()
